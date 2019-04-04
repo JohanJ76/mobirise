@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1389,7 +1389,7 @@
             "paddingBottom": "4",
             "filterBgColor": true,
             "bgColor": "#f2f2f2",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "images": [
               {
