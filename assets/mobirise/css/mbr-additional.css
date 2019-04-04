@@ -488,6 +488,7 @@ h6,
 }
 #header1-4 .mbr-section-title {
   color: #595a59;
+  text-align: left;
 }
 #header1-4 .mbr-section-lead {
   color: #595a59;
@@ -584,6 +585,16 @@ h6,
 #testimonials1-t .mbr-section-title {
   color: #666666;
   text-align: left;
+}
+#form1-10 .form-control-label {
+  color: #232323;
+}
+#form1-10 .mbr-section-title {
+  text-align: left;
+  color: #666666;
+}
+#form1-10 SMALL {
+  color: #666666;
 }
 #contacts1-v STRONG {
   color: #666666;
