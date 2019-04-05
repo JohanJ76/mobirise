@@ -539,6 +539,9 @@ h6,
 #content2-d B {
   color: #666666;
 }
+#content2-d SPAN {
+  color: #666666;
+}
 #msg-box1-g H3 {
   text-align: left;
   color: #666666;
@@ -673,9 +676,14 @@ h6,
 #menu-2 A {
   font-family: 'PT Serif', serif;
 }
-#header1-4 .mbr-section-title {
-  color: #595a59;
+#msg-box5-11 H3 {
+  color: #666666;
+  text-align: center;
+  font-size: 60px;
 }
-#header1-4 .mbr-section-lead {
-  color: #595a59;
+#msg-box5-11 P {
+  text-align: center;
+}
+#msg-box5-11 .btn {
+  font-size: 14px;
 }

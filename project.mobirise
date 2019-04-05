@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -439,7 +439,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "text": "<blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Volksblad / Media24 - Bloemfontein \r</b></span></font></blockquote><blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Graphic Designer / Team Leader &nbsp; &nbsp;• &nbsp; &nbsp;1/2/2000 - 31/3/2016</b></span></font></blockquote>",
+          "text": "<blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Volksblad / Media24 - Bloemfontein \n</b></span></font></blockquote><blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Graphic Designer / Team Leader &nbsp; &nbsp;• &nbsp; &nbsp;1/2/2000 - 31/3/2016</b></span></font></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -482,6 +482,9 @@
           "_name": "content2",
           "_styles": {
             "B": {
+              "color": "#666666"
+            },
+            "SPAN": {
               "color": "#666666"
             }
           },
@@ -1196,7 +1199,7 @@
           },
           "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
           "text2": "",
-          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download:<b>&nbsp;<br><a class=\"text-success\" href=\"assets/files/MY%20CV%20%20MODERN%20-%20Dark%20&amp;amp;%20Light%20Theme.pdf\" target=\"_blank\">Click here please..</a></b>",
+          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b><a href=\"assets/files/JC Jacobs Resume.pdf\" target=\"_blank\" class=\"text-success\">&gt;&nbsp;Please click here &lt;</a></b>",
           "_tags": [
             "Theme"
           ],
@@ -1347,35 +1350,63 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-2000x1648.jpg",
+            "inverse": false,
+            "imageSize": "48",
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "Welcome to my <br>Portfolio",
-          "text": "Creative Graphic Designer from Bloemfontein",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"portfolio.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hero-banner-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Welcome to my Portfolio",
+          "text": "My portfoli",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"portfolio.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's start</a> ",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#595a59"
+            "H3": {
+              "color": "#666666",
+              "text-align": "center",
+              "font-size": "60px"
             },
-            ".mbr-section-lead": {
-              "color": "#595a59"
+            "P": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           }
         },
