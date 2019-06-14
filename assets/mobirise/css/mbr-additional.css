@@ -421,6 +421,49 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+.form-control {
+  padding: 0.9rem;
+}
+.align-center {
+  text-align: center;
+}
+.col,
+.col-12,
+.col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+}
+form a.btn {
+  margin: 0;
+}
+.mx-auto {
+  margin: 0 auto;
+}
+section.custom-form .container,
+section.form .container {
+  display: flex;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -493,6 +536,19 @@ h6,
 #header1-4 .mbr-section-lead {
   color: #595a59;
 }
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-19 .mbr-section-title {
+  color: #666666;
+}
+#header3-19 .mbr-section-subtitle {
+  color: #666666;
+}
+#content2-1a BLOCKQUOTE {
+  color: #666666;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -531,6 +587,9 @@ h6,
   font-size: 16px;
 }
 #content2-b B {
+  color: #666666;
+}
+#content2-b SPAN {
   color: #666666;
 }
 #content1-c P {

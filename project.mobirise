@@ -21,21 +21,21 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fcfcfc",
         "#666666",
         "#232323",
         "#2e2e2e",
         "#f2f2f2",
         "#f68e34",
-        "#595a59",
-        "#e3e4e6"
+        "#595a59"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 38,
+    "uniqCompNum": 47,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -122,7 +122,7 @@
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-19\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Cover Letter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -167,7 +167,7 @@
           },
           "title": "Hello! <br>I'm Johan",
           "text": "Creative Graphic Designer <br>from Bloemfontein",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-19\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
           "_tags": [
             "Theme"
           ],
@@ -180,6 +180,50 @@
             },
             ".mbr-section-lead": {
               "color": "#595a59"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "title": "Cover Letter",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Vacancy for Graphic Designer @ Adbrand, Bloemfontein - Advertised on Careers24 and Facebook (Ref.: copy-1561169)</b></span></p><p><br></p><p>Dear Sir/Ma'am</p><p><br></p><p>\n</p><p>\n</p><p>Regarding the Graphic Designer position currently advertised on Careers24 and Facebook, please find my résumé for your consideration.</p><p><br></p><p>\n</p><p>\n</p><p>Having worked within the industry for over 18 years, I have developed a wide range of skills that would meet, and exceed the expectations of the position. While working as a graphic designer for Volksblad, I've design adverts from written pieces into a visual pieces and special supplements for the respective newspapers in the Volksblad-group. Worked closely with the advertising reps, editorial teams and managers. I've had many achievements, including being promoted to Team Leader. Currated new designs for Volksblad branding from logo's, adverts, sosial media adverts and banners.</p><p><br></p><p> \n</p><p>\n</p><p>Proficiency in CorelDraw, Photoshop, Microsoft Office and other Adobe design software. Also did retouching of photography and deep etching for both editorial- and DTP-despartment. Ensured accurate placement of all adverts and manage the production flow of adverts to final print. Assist with design of print advertising and print material for all marketing communication projects.&nbsp;</p><p><br></p><p>\n</p><p>\n</p><p>I would relish the opportunity to bring this level of success to your company and grow my future in graphic designing. If you would like to get in touch to discuss my application and to arrange an interview, you can contact me on 071 675 5341 or jjacobs064@gmail.com.&nbsp;</p><p>&nbsp;\n</p><p>I look forward to be hearing from you soon.</p><p><br></p><p>\n</p><p>\n</p><p>Yours sincerely,\n</p><p>Johan Jacobs\n</p><p>071 675 5341</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1a",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#666666"
             }
           }
         },
@@ -447,6 +491,9 @@
           "_styles": {
             "B": {
               "color": "#666666"
+            },
+            "SPAN": {
+              "color": "#666666"
             }
           },
           "_anchor": "content2-b"
@@ -652,7 +699,7 @@
           "subtitle1": "80%",
           "caption1": "Provitioned with Adobe Photoshop as it is used daily to edit &amp; retouch photos to spesification to press standerds. Deep-etching photos for editorial- &amp; DTP-department. Web ads and banners designed.&nbsp;",
           "title2": "Corel Draw",
-          "subtitle2": "90%",
+          "subtitle2": "80%",
           "caption2": "Very provitioned with Corel Draw as it is daily used to design adverts for clients, layout designs for dummy pages, logo designs, e-mail ads, and many more. Print ready pdf's are send to external printers.&nbsp;",
           "title3": "Indesign",
           "subtitle3": "50%",
@@ -661,10 +708,10 @@
           "subtitle4": "40%",
           "caption4": "Basic knolage of Adobe Illustrator how it works. Done some logo's and other vector files -exported to be used in other design programs. Not used daily.&nbsp;",
           "title5": "Microsoft Office",
-          "subtitle5": "70%",
+          "subtitle5": "60%",
           "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;",
           "title6": "After Effects",
-          "subtitle6": "50%",
+          "subtitle6": "40%",
           "caption6": "Basic knolage of Adobe After Effects how it works. Done some motion graphic and animation designs. Export project to Adobe Photoshop to make GIF files for web.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -791,10 +838,10 @@
           "subtitle1": "40%",
           "caption1": "Basic knolage of Adobe Dreamweaver how it works. Designed a few websites for clients.&nbsp;",
           "title2": "Adobe Muse",
-          "subtitle2": "50%",
+          "subtitle2": "40%",
           "caption2": "Basic knolage of Adobe Muse how it works. Mostly experimented with program.",
           "title3": "Adobe Premier",
-          "subtitle3": "50%",
+          "subtitle3": "40%",
           "caption3": "Basic knolage of HTML and the use of it to design layout of websites.&nbsp;",
           "title4": "HTML",
           "subtitle4": "30%",
@@ -1039,7 +1086,7 @@
             {
               "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<p>Ludwig Esau - DTP Team Leader Volksblad \n</p><p>051 404 7736\n</p><p><a href=\"mailto:lesau@Volksblad.com\">lesau@Volksblad.com</a></p>",
+              "text": "<p>Ludwig Esau - DTP Team Leader Volksblad \n</p><p>081 430 7950</p><p><a href=\"mailto:lesau@Volksblad.com\">lesau@Volksblad.com</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1199,7 +1246,7 @@
           },
           "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
           "text2": "",
-          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b><a href=\"assets/files/JC Jacobs Resume.pdf\" target=\"_blank\" class=\"text-success\">&gt;&nbsp;Please click here &lt;</a></b>",
+          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/JC%20Jacobs%20Resume.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
           "_tags": [
             "Theme"
           ],
@@ -1322,7 +1369,7 @@
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-19\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Cover Letter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1351,7 +1398,7 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "48",
+            "imageSize": "50",
             "paddingTop": "7",
             "paddingBottom": "7",
             "bgImageRadio": false,
