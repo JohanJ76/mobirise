@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#fcfcfc",
         "#666666",
         "#232323",
         "#2e2e2e",
         "#f2f2f2",
         "#f68e34",
-        "#595a59"
+        "#595a59",
+        "#e3e4e6"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 47,
+    "uniqCompNum": 38,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -483,7 +483,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "text": "<blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Volksblad / Media24 - Bloemfontein \n</b></span></font></blockquote><blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Graphic Designer / Team Leader &nbsp; &nbsp;• &nbsp; &nbsp;1/2/2000 - 31/3/2016</b></span></font></blockquote>",
+          "text": "<blockquote><font color=\"#666666\"><b style=\"font-style: normal;\">Volksblad / Media24 - Bloemfontein \n</b></font></blockquote><blockquote><font color=\"#666666\"><b style=\"font-style: normal;\">Graphic Designer / Team Leader &nbsp; &nbsp;• &nbsp; &nbsp;1/2/2000 - 31/3/2016</b></font></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1170,7 +1170,7 @@
           },
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
           "form": {
             "action": "jjacobs064@gmail.com",
             "alerts": {
