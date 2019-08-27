@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fcfcfc",
         "#666666",
         "#232323",
         "#2e2e2e",
         "#f2f2f2",
         "#f68e34",
-        "#595a59",
-        "#e3e4e6"
+        "#595a59"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,8 +35,8 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 38,
-    "versionPublish": "4.9.7",
+    "uniqCompNum": 42,
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -199,7 +199,7 @@
             "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#fcfcfc"
+            "bgColor": "#ffffff"
           },
           "title": "Cover Letter",
           "meta": "By John Smith posted July 20, 2016",
@@ -213,9 +213,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#fcfcfc"
+            "bgColor": "#ffffff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Vacancy for Graphic Designer @ Adbrand, Bloemfontein - Advertised on Careers24 and Facebook (Ref.: copy-1561169)</b></span></p><p><br></p><p>Dear Sir/Ma'am</p><p><br></p><p>\n</p><p>\n</p><p>Regarding the Graphic Designer position currently advertised on Careers24 and Facebook, please find my résumé for your consideration.</p><p><br></p><p>\n</p><p>\n</p><p>Having worked within the industry for over 18 years, I have developed a wide range of skills that would meet, and exceed the expectations of the position. While working as a graphic designer for Volksblad, I've design adverts from written pieces into a visual pieces and special supplements for the respective newspapers in the Volksblad-group. Worked closely with the advertising reps, editorial teams and managers. I've had many achievements, including being promoted to Team Leader. Currated new designs for Volksblad branding from logo's, adverts, sosial media adverts and banners.</p><p><br></p><p> \n</p><p>\n</p><p>Proficiency in CorelDraw, Photoshop, Microsoft Office and other Adobe design software. Also did retouching of photography and deep etching for both editorial- and DTP-despartment. Ensured accurate placement of all adverts and manage the production flow of adverts to final print. Assist with design of print advertising and print material for all marketing communication projects.&nbsp;</p><p><br></p><p>\n</p><p>\n</p><p>I would relish the opportunity to bring this level of success to your company and grow my future in graphic designing. If you would like to get in touch to discuss my application and to arrange an interview, you can contact me on 071 675 5341 or jjacobs064@gmail.com.&nbsp;</p><p>&nbsp;\n</p><p>I look forward to be hearing from you soon.</p><p><br></p><p>\n</p><p>\n</p><p>Yours sincerely,\n</p><p>Johan Jacobs\n</p><p>071 675 5341</p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Vacancy for Junior Graphic Designer @ Ladybrand, Free State</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">Dear Melody Vincent</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Regarding the Junior Graphic Designer position currently advertised on Careers24 and Facebook, please find my résumé for your consideration.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Having worked within the industry for over 18 years, I have developed a wide range of skills that would meet, and exceed the expectations of the position. While working as a graphic designer for Volksblad, I've design adverts from written pieces into a visual pieces and special supplements for the respective newspapers in the Volksblad-group. Worked closely with the advertising reps, editorial teams and managers. I've had many achievements, including being promoted to Team Leader. Curated new designs for Volksblad branding from logo's, adverts, social media adverts and banners.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Proficiency in CorelDraw, Photoshop, Microsoft Office and other Adobe design software. Also did retouching of photography and deep etching for both editorial- and DTP-department. Ensured accurate placement of all adverts and manage the production flow of adverts to final print. Assist with design of print advertising and print material for all marketing communication projects.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"> \n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">I would relish the opportunity to bring this level of success to your company and grow my future in graphic designing. If you would like to get in touch to discuss my application and to arrange an interview, you can contact me on 071 675 5341 or jjacobs064@gmail.com. \n</span></p><p><span style=\"font-style: normal;\">&nbsp;\n</span></p><p><span style=\"font-style: normal;\">I look forward to be hearing from you soon.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Yours sincerely,\n</span></p><p><span style=\"font-style: normal;\">Johan Jacobs\n</span></p><p><span style=\"font-style: normal;\">071 675 5341\n</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -223,6 +223,9 @@
           "_anchor": "content2-1a",
           "_styles": {
             "BLOCKQUOTE": {
+              "color": "#666666"
+            },
+            "DIV": {
               "color": "#666666"
             }
           }
@@ -244,7 +247,7 @@
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#fcfcfc"
           },
           "title": "About Me",
           "meta": "My name is Johan Jacobs and I'm the fastest man alive from Bloemfontein.",
@@ -263,13 +266,13 @@
             "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fcfcfc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -378,6 +381,66 @@
           }
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "49",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-1400x385.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Recent Project:",
+          "text": "Latest to Arbor Acres - Vinyl design for their tanker. Great client to work with.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#msg-box5-11\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_styles": {
+            "H3": {
+              "color": "#666666"
+            },
+            "P": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -447,6 +510,48 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
+          "text": "<blockquote><b style=\"font-style: normal;\">Freelance Designer - Bloemfontein\n</b></blockquote><blockquote><b style=\"font-style: normal;\">1/6/2018 - Current</b></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>• Designing banners, logo’s, flyers, newsletters, newspaper adverts.\n</p><p>• Sublimation of coffee mugs.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print product.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content1-15"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
           "text": "<blockquote><b style=\"font-style: normal;\">Paarlcoldset / Novus Holdings - Bloemfontein\n</b></blockquote><blockquote><b style=\"font-style: normal;\">CTP Operator &nbsp; &nbsp;• &nbsp; &nbsp;1/4/2016 - 31/4/2018</b></blockquote>",
           "_tags": [
             "Theme"
@@ -455,6 +560,9 @@
           "_anchor": "content2-9",
           "_styles": {
             "B": {
+              "color": "#666666"
+            },
+            "DIV": {
               "color": "#666666"
             }
           }
@@ -474,6 +582,9 @@
           "_styles": {
             "P": {
               "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#666666"
             }
           }
         },
@@ -494,6 +605,9 @@
             },
             "SPAN": {
               "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
             }
           },
           "_anchor": "content2-b"
@@ -513,6 +627,9 @@
           "_styles": {
             "P": {
               "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#666666"
             }
           }
         },
@@ -533,6 +650,9 @@
             },
             "SPAN": {
               "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
             }
           },
           "_anchor": "content2-d"
@@ -548,7 +668,12 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-e"
+          "_anchor": "content1-e",
+          "_styles": {
+            "DIV": {
+              "color": "#666666"
+            }
+          }
         },
         {
           "_params": {
@@ -705,13 +830,13 @@
           "subtitle3": "50%",
           "caption3": "Basic knolage of Adobe Indesign how it works. Done some layouts for dummy pages. Not used daily.&nbsp;",
           "title4": "Illustrator",
-          "subtitle4": "40%",
+          "subtitle4": "50%",
           "caption4": "Basic knolage of Adobe Illustrator how it works. Done some logo's and other vector files -exported to be used in other design programs. Not used daily.&nbsp;",
           "title5": "Microsoft Office",
           "subtitle5": "60%",
           "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;",
           "title6": "After Effects",
-          "subtitle6": "40%",
+          "subtitle6": "50%",
           "caption6": "Basic knolage of Adobe After Effects how it works. Done some motion graphic and animation designs. Export project to Adobe Photoshop to make GIF files for web.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -732,8 +857,8 @@
               "font-size": "20px"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             },
             "H4": {
               "color": "#666666"
@@ -745,7 +870,7 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#efefef",
             "paddingTop": "1",
             "paddingBottom": "3",
             "columns": "5",
@@ -835,7 +960,7 @@
             }
           },
           "title1": "Adobe Dreamweaver",
-          "subtitle1": "40%",
+          "subtitle1": "50%",
           "caption1": "Basic knolage of Adobe Dreamweaver how it works. Designed a few websites for clients.&nbsp;",
           "title2": "Adobe Muse",
           "subtitle2": "40%",
@@ -844,10 +969,10 @@
           "subtitle3": "40%",
           "caption3": "Basic knolage of HTML and the use of it to design layout of websites.&nbsp;",
           "title4": "HTML",
-          "subtitle4": "30%",
+          "subtitle4": "50%",
           "caption4": "Basic knolage of CSS and the use of it to struckture the HTML and the look-and-feel  of a website .  ",
           "title5": "CSS",
-          "subtitle5": "40%",
+          "subtitle5": "50%",
           "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;Self tought to use via tutorials.",
           "title6": "After Effects",
           "subtitle6": "50%",
@@ -1030,6 +1155,9 @@
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#666666"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#666666"
             }
           }
         },
@@ -1040,7 +1168,7 @@
             "showImages": false,
             "showName": false,
             "showBio": false,
-            "count": "6",
+            "count": "5",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -1086,7 +1214,7 @@
             {
               "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<p>Ludwig Esau - DTP Team Leader Volksblad \n</p><p>081 430 7950</p><p><a href=\"mailto:lesau@Volksblad.com\">lesau@Volksblad.com</a></p>",
+              "text": "<p>Ludwig Esau - DTP Team Leader Volksblad \n</p><p>081 430 7950</p><p><br></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1114,21 +1242,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Ndate Magwaza - Print Manager Paarlcoldset</p><p>051 411 6861 \n</p><p><a href=\"mailto:Ndate.Magwaza@paarlcoldset.co.za\">Ndate.Magwaza@paarlcoldset.co.za</a></p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>Frikkie van der Walt - CTP Foreman&nbsp;</p><p>051 411 6865 \n</p><p><a href=\"mailto:frikkie.vanderwalt@paarlcoldset.co.za\">frikkie.vanderwalt@paarlcoldset.co.za</a></p>",
+              "text": "<p>Frikkie van der Walt - CTP Foreman \n</p><p>\n<span style=\"font-size: 1.125rem;\">051 411 6865&nbsp;</span></p><p>\n<span style=\"font-size: 1.125rem;\"><a href=\"mailto:frikkie.vanderwalt@paarlcoldset.co.za\">frikkie.vanderwalt@paarlcoldset.co.za</a></span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1475,12 +1589,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551-800x220.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445-800x578.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1660,19 +1798,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2014-fifa-world-cup-afr-tabloit-2000x1445.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2014-fifa-world-cup-afr-tabloit-2000x1445-800x578.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2149,18 +2275,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/railway-bottle-store-10x2-1510x2372.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/railway-bottle-store-10x2-1510x2372-800x1257.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482-800x1135.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",

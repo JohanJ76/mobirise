@@ -549,6 +549,9 @@ section.form .container {
 #content2-1a BLOCKQUOTE {
   color: #666666;
 }
+#content2-1a DIV {
+  color: #666666;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -563,6 +566,12 @@ section.form .container {
 #features6-6 P {
   color: #666666;
   font-size: 16px;
+}
+#msg-box5-13 H3 {
+  color: #666666;
+}
+#msg-box5-13 P {
+  color: #666666;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
@@ -580,11 +589,29 @@ section.form .container {
   text-align: left;
   color: #666666;
 }
+#content2-14 B {
+  color: #666666;
+}
+#content2-14 DIV {
+  color: #666666;
+}
+#content1-15 P {
+  font-size: 16px;
+}
+#content1-15 DIV {
+  color: #666666;
+}
 #content2-9 B {
+  color: #666666;
+}
+#content2-9 DIV {
   color: #666666;
 }
 #content1-a P {
   font-size: 16px;
+}
+#content1-a DIV {
+  color: #666666;
 }
 #content2-b B {
   color: #666666;
@@ -592,13 +619,25 @@ section.form .container {
 #content2-b SPAN {
   color: #666666;
 }
+#content2-b DIV {
+  color: #666666;
+}
 #content1-c P {
   font-size: 16px;
+}
+#content1-c DIV {
+  color: #666666;
 }
 #content2-d B {
   color: #666666;
 }
 #content2-d SPAN {
+  color: #666666;
+}
+#content2-d DIV {
+  color: #666666;
+}
+#content1-e DIV {
   color: #666666;
 }
 #msg-box1-g H3 {
@@ -621,8 +660,8 @@ section.form .container {
   font-size: 20px;
 }
 #features4-m .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 #features4-m H4 {
   color: #666666;
@@ -642,6 +681,9 @@ section.form .container {
   color: #666666;
 }
 #features2-r .mbr-cards-col:nth-child(even) .card-title {
+  color: #666666;
+}
+#features2-r .mbr-cards-col:nth-child(even) .card-text {
   color: #666666;
 }
 #testimonials1-t .mbr-section-title {
