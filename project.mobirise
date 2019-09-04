@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 42,
+    "uniqCompNum": 51,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -122,7 +122,7 @@
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-19\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Cover Letter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -167,7 +167,7 @@
           },
           "title": "Hello! <br>I'm Johan",
           "text": "Creative Graphic Designer <br>from Bloemfontein",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-19\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features6-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
           "_tags": [
             "Theme"
           ],
@@ -180,53 +180,6 @@
             },
             ".mbr-section-lead": {
               "color": "#595a59"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#666666"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#666666"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "Cover Letter",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-19"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#ffffff"
-          },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Vacancy for Junior Graphic Designer @ Ladybrand, Free State</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">Dear Melody Vincent</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Regarding the Junior Graphic Designer position currently advertised on Careers24 and Facebook, please find my résumé for your consideration.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Having worked within the industry for over 18 years, I have developed a wide range of skills that would meet, and exceed the expectations of the position. While working as a graphic designer for Volksblad, I've design adverts from written pieces into a visual pieces and special supplements for the respective newspapers in the Volksblad-group. Worked closely with the advertising reps, editorial teams and managers. I've had many achievements, including being promoted to Team Leader. Curated new designs for Volksblad branding from logo's, adverts, social media adverts and banners.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Proficiency in CorelDraw, Photoshop, Microsoft Office and other Adobe design software. Also did retouching of photography and deep etching for both editorial- and DTP-department. Ensured accurate placement of all adverts and manage the production flow of adverts to final print. Assist with design of print advertising and print material for all marketing communication projects.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"> \n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">I would relish the opportunity to bring this level of success to your company and grow my future in graphic designing. If you would like to get in touch to discuss my application and to arrange an interview, you can contact me on 071 675 5341 or jjacobs064@gmail.com. \n</span></p><p><span style=\"font-style: normal;\">&nbsp;\n</span></p><p><span style=\"font-style: normal;\">I look forward to be hearing from you soon.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">\n</span></p><p><span style=\"font-style: normal;\">Yours sincerely,\n</span></p><p><span style=\"font-style: normal;\">Johan Jacobs\n</span></p><p><span style=\"font-style: normal;\">071 675 5341\n</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1a",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#666666"
-            },
-            "DIV": {
-              "color": "#666666"
             }
           }
         },
@@ -425,7 +378,7 @@
           },
           "title": "Recent Project:",
           "text": "Latest to Arbor Acres - Vinyl design for their tanker. Great client to work with.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#msg-box5-11\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#gallery4-1c\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
           "_tags": [
             "Theme"
           ],
@@ -1483,7 +1436,7 @@
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-19\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Cover Letter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1504,280 +1457,143 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-2"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "7",
-            "paddingBottom": "7",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hero-banner-1400x1400.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Welcome to my Portfolio",
-          "text": "My portfoli",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"portfolio.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Let's start</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-11",
-          "_styles": {
-            "H3": {
-              "color": "#666666",
-              "text-align": "center",
-              "font-size": "60px"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          }
+          "_anchor": "menu-16"
         },
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": false,
+            "showBullets": true,
             "fullWidth": true,
             "spacing": "1",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "filterBgColor": true,
-            "bgColor": "#f2f2f2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
             "showText": false,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Coffee Mugs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551-800x220.jpg",
+                "image": "@PROJECT_PATH@/assets/images/40th-bday-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/40th-bday-2000x1410-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Coffee Mugs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/quicksignal-1750x2482-800x1135.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jan-venter-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jan-venter-2000x1410-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Coffee Mugs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jj-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jj-2000x1410-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Coffee Mugs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003-800x801.jpg",
+                "image": "@PROJECT_PATH@/assets/images/money-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/money-2000x1410-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Coffee Mugs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/scott-auto-19x8-2000x1458.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scott-auto-19x8-2000x1458-800x583.jpg",
+                "image": "@PROJECT_PATH@/assets/images/soup-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/soup-2000x1410-800x564.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Logo's",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/scott-auto-mazda-20x8-2000x1478.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scott-auto-mazda-20x8-2000x1478-800x591.jpg",
+                "image": "@PROJECT_PATH@/assets/images/my-logo-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/my-logo-1750x2482-800x1135.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Logo's",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/sovereign-bmw-20x4-1726x2364.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sovereign-bmw-20x4-1726x2364-800x1096.jpg",
+                "image": "@PROJECT_PATH@/assets/images/quicksignal-1-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/quicksignal-1-1750x2482-800x1135.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Logo's",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/spca-2000x1445.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/spca-2000x1445-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-1-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-1-1750x2482-800x1135.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Logo's",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/st-andrews-brief-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/st-andrews-brief-2000x2827-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2-1750x2482-800x1135.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761-800x304.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371-800x148.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vodacom-4u-19x4-1500x2364.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vodacom-4u-19x4-1500x2364-800x1261.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vodacom4u-19x4-1500x2362.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vodacom4u-19x4-1500x2362-800x1260.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-agter-2000x2828.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-agter-2000x2828-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774-800x354.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1789,19 +1605,19 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371-800x148.jpg",
+                "image": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1810,154 +1626,10 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874-620x874.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405-800x162.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826-800x1130.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/amphibia-19x8-ma031214-2000x1400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amphibia-19x8-ma031214-2000x1400-800x560.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695-800x278.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/athlone-motors-bottelstoor-10x4-1502x1184.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/athlone-motors-bottelstoor-10x4-1502x1184-800x631.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/audi-27x10-2000x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/audi-27x10-2000x1440-800x576.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482-800x1135.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/budget-insurance-brokers-39x8-2000x2988.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/budget-insurance-brokers-39x8-2000x2988-800x1195.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233-800x1293.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335-800x1858.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/digitale-roadshow-saam-met-mtn-70x297-2000x472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digitale-roadshow-saam-met-mtn-70x297-2000x472-800x189.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1969,7 +1641,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1981,55 +1653,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658-658x658.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/funky-village-2000x838.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/funky-village-2000x838-800x335.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gabriella-2000x2828.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gabriella-2000x2828-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2041,55 +1665,19 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952-800x381.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ingestel-op-waarde-20x4-1742x2380.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ingestel-op-waarde-20x4-1742x2380-800x1093.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kragtig-vooruit-2000x2675.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kragtig-vooruit-2000x2675-800x1070.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883-800x353.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lanie-vinilla-collection-label-2000x1371.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lanie-vinilla-collection-label-2000x1371-800x548.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2101,7 +1689,19 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maluti-antique-auto-and-machine-club-39x8-a-1542x2304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maluti-antique-auto-and-machine-club-39x8-a-1542x2304-800x1195.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2113,7 +1713,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2125,31 +1725,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mccarthy-suzuki-8x10-a-2000x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mccarthy-suzuki-8x10-a-2000x427-800x171.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2161,7 +1737,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2173,7 +1749,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2185,19 +1761,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/national-hamburger-day-layout-2000x1445.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/national-hamburger-day-layout-2000x1445-800x578.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2209,7 +1773,19 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/new-horizon-20x8-2000x1535.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-horizon-20x8-2000x1535-800x614.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2221,31 +1797,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/oes-vd-vrystaat-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/oes-vd-vrystaat-2000x2827-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/oranje-toyota-8x10-2000x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/oranje-toyota-8x10-2000x427-800x171.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2257,7 +1809,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2269,12 +1821,456 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Adverts",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/railway-bottle-store-10x2-1510x2372.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/railway-bottle-store-10x2-1510x2372-800x1257.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scott-auto-19x8-2000x1458.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scott-auto-19x8-2000x1458-800x583.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/scott-auto-mazda-20x8-2000x1478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scott-auto-mazda-20x8-2000x1478-800x591.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sovereign-bmw-20x4-1726x2364.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sovereign-bmw-20x4-1726x2364-800x1096.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761-800x304.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vodacom-4u-19x4-1500x2364.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vodacom-4u-19x4-1500x2364-800x1261.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vodacom4u-19x4-1500x2362.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vodacom4u-19x4-1500x2362-800x1260.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-2000x838.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-2000x838-800x335.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658-658x658.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/lanie-vinilla-collection-label-2000x1371.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lanie-vinilla-collection-label-2000x1371-800x548.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bhm-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bhm-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774-800x354.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874-620x874.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405-800x162.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826-800x1130.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695-800x278.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551-800x220.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233-800x1293.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335-800x1858.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/digitale-roadshow-saam-met-mtn-70x297-2000x472.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digitale-roadshow-saam-met-mtn-70x297-2000x472-800x189.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabriella-gabby-b-card-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabriella-gabby-b-card-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabriella-1-2000x2828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabriella-1-2000x2828-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952-800x381.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883-800x353.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445-800x578.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003-800x801.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761-800x304.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/audi-27x10-2000x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/audi-27x10-2000x1440-800x576.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/badcat-logo-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/badcat-logo-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logo's",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bhm-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bhm-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/budget-insurance-brokers-39x8-2000x2988.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/budget-insurance-brokers-39x8-2000x2988-800x1195.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adverts",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/oranje-toyota-8x10-2000x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oranje-toyota-8x10-2000x427-800x171.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veiligheid-voorlegging-2000x2827-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2286,9 +2282,9 @@
             "Theme"
           ],
           "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-z"
+          "allItem": "Alle Werk",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1c"
         },
         {
           "_params": {
@@ -2308,7 +2304,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-s"
+          "_anchor": "footer1-19"
         }
       ]
     }
