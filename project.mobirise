@@ -171,7 +171,7 @@
           },
           "title": "Hello! <br>I'm Johan",
           "text": "Creative Graphic Designer <br>from Bloemfontein",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features6-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
           "_tags": [
             "Theme"
           ],
