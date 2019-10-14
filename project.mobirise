@@ -231,7 +231,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "49",
             "paddingTop": "1",
@@ -271,7 +271,7 @@
             }
           },
           "title": "Recent Project:",
-          "text": "&nbsp;Clean, modern looking website designed for Arbor Acres&nbsp;- visit www.arboracres.co.za.&nbsp;",
+          "text": "&nbsp;Clean, modern looking website designed for Arbor Acres&nbsp;- <br><a href=\"http://www.arboracres.co.za\" target=\"_blank\">visit them here</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#gallery4-1c\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
           "_tags": [
             "Theme"
@@ -405,7 +405,7 @@
           ],
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Communication \n<br>To communicate a client's story, brand and ideas, good communication skills. Maintain professional in tricky situations and to be clear with a client on the brief. \n<br>\n<br>Curiosity \n<br>Curiosity for the world around me. Love to look beyond the surface of things, \n<br>to explore both the minute detail and the big picture.  \n<br>\n<br>Passion and Drive \n<br>I do what I love. But even with passion and talent, design is a labour of love. The work inevitably entails odd hours, long edits, bizarre briefs and tricky workloads. Use that passion to keep going when I'm exhausted. Balance projects and master time management, and I have the drive from the start go. <br> ",
+          "caption1": "Communication \n<br>To communicate a client's story, brand and ideas, good communication skills. Maintain professional in tricky situations and to be clear with a client on the brief. \n<br>\n<br>Curiosity \n<br>Curiosity for the world around me. Love to look beyond the surface of things, to explore both the minute detail and the big picture.  \n<br>\n<br>Passion and Drive \n<br>I do what I love. But even with passion and talent, design is a labour of love. The work inevitably entails odd hours, long edits, bizarre briefs and tricky workloads. Use that passion to keep going when I'm exhausted. Balance projects and master time management, and I have the drive from the start go. <br> ",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Openness \n<br>Open-minded, willing to try new things and comfortable taking advice from unexpected sources.&nbsp;<br>\n<br>Ability to Take Criticism \n<br>As a designer, I am good at taking direction to improve my work and build on communication. It’s an evolving process and produces positives in the end. \n<br>\n<br>Problem Solving \n<br>I think logistically and critically to make things work. Creativity is needed not only to produce something brilliant, but also to work out how the pieces fit together and turn ideas into a finished product.&nbsp;<br>",
