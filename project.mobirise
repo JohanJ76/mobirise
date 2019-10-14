@@ -293,7 +293,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#666666"
+              "color": "#666666",
+              "font-size": "32px"
             },
             ".mbr-section-subtitle": {
               "color": "#666666"
