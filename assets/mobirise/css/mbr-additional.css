@@ -547,16 +547,26 @@ section.form .container {
 #header3-5 .mbr-section-subtitle {
   color: #666666;
 }
-#features6-6 P {
-  color: #666666;
-  font-size: 16px;
-  text-align: left;
-}
 #msg-box5-13 H3 {
   color: #666666;
 }
 #msg-box5-13 P {
   color: #666666;
+}
+#header3-1k .mbr-section-title,
+#header3-1k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1k .mbr-section-title {
+  color: #666666;
+}
+#header3-1k .mbr-section-subtitle {
+  color: #666666;
+}
+#features6-6 P {
+  color: #666666;
+  font-size: 16px;
+  text-align: center;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
