@@ -220,7 +220,7 @@
             "paddingBottom": "3",
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p>",
+          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/CV Johan Jacobs.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -231,7 +231,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "49",
             "paddingTop": "1",
@@ -272,7 +272,7 @@
           },
           "title": "Recent Project:",
           "text": "&nbsp;Clean, modern looking website designed for Arbor Acres&nbsp;- <br><a href=\"http://www.arboracres.co.za\" target=\"_blank\">visit them here</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#gallery4-1c\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#gallery4-1c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Portfolio</a>",
           "_tags": [
             "Theme"
           ],
@@ -342,11 +342,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "key",
+              "name": "chat",
               "family": "et-line",
               "active": true,
               "link": "",
-              "size": 0
+              "size": "60",
+              "color": "#fac51c"
             }
           },
           "media2": {
@@ -357,7 +358,8 @@
               "family": "et-line",
               "active": true,
               "link": "",
-              "size": 0
+              "size": "60",
+              "color": "#fac51c"
             }
           },
           "media3": {
@@ -368,7 +370,8 @@
               "family": "et-line",
               "active": true,
               "link": "",
-              "size": 0
+              "size": "60",
+              "color": "#fac51c"
             }
           },
           "media4": {
@@ -529,14 +532,15 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>• Designing banners, logo’s, flyers, newsletters, newspaper adverts, ect.\n</p><p>• Sublimation of coffee mugs - design and print.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print product.</p>",
+          "text": "<p>• Designing logo’s, flyers, newsletters, newspaper adverts, motion design.</p><p>• Designing of social media ads, web banners, digital designs and &nbsp;e-mail newsletters and -campaigns.</p><p>\n</p><p>• Sublimation of coffee mugs - design and print.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print/digital product.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "left"
             },
             "DIV": {
               "color": "#666666"
@@ -834,7 +838,7 @@
           "subtitle5": "70%",
           "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;",
           "title6": "After Effects",
-          "subtitle6": "50%",
+          "subtitle6": "60%",
           "caption6": "Basic knolage of Adobe After Effects how it works. Done some motion graphic and animation designs. Export project to Adobe Photoshop to make GIF files for web.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -913,7 +917,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "globe-2",
+              "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -961,15 +965,15 @@
           "subtitle1": "50%",
           "caption1": "Basic knolage of Adobe Dreamweaver how it works. Designed a few websites for clients.&nbsp;",
           "title2": "Adobe Muse",
-          "subtitle2": "40%",
+          "subtitle2": "50%",
           "caption2": "Basic knolage of Adobe Muse how it works. Mostly experimented with program.",
-          "title3": "Adobe Premier",
-          "subtitle3": "40%",
+          "title3": "MailChimp",
+          "subtitle3": "50%",
           "caption3": "Basic knolage of HTML and the use of it to design layout of websites.&nbsp;",
-          "title4": "HTML",
-          "subtitle4": "50%",
+          "title4": "Mobirise",
+          "subtitle4": "80%",
           "caption4": "Basic knolage of CSS and the use of it to struckture the HTML and the look-and-feel  of a website .  ",
-          "title5": "CSS",
+          "title5": "CSS &amp; HTML",
           "subtitle5": "50%",
           "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;Self tought to use via tutorials.",
           "title6": "After Effects",
@@ -1033,7 +1037,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": 0
+              "size": 0,
+              "color": "#fac51c"
             }
           },
           "media2": {
@@ -1044,7 +1049,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": 0
+              "size": 0,
+              "color": "#fac51c"
             }
           },
           "media3": {
@@ -1055,7 +1061,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": 0
+              "size": 0,
+              "color": "#fac51c"
             }
           },
           "media4": {
@@ -1344,7 +1351,7 @@
           },
           "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
           "text2": "",
-          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/JC%20Jacobs%20Resume.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
+          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/CV Johan Jacobs.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
           "_tags": [
             "Theme"
           ],
@@ -1504,7 +1511,31 @@
             "filter": true,
             "images": [
               {
-                "tags": "Coffee Mugs",
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1182x1904.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1182x1904-800x1289.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1516,7 +1547,7 @@
                 "active": false
               },
               {
-                "tags": "Coffee Mugs",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1528,7 +1559,7 @@
                 "active": false
               },
               {
-                "tags": "Coffee Mugs",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1540,7 +1571,7 @@
                 "active": false
               },
               {
-                "tags": "Coffee Mugs",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1552,7 +1583,7 @@
                 "active": false
               },
               {
-                "tags": "Coffee Mugs",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1564,7 +1595,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1576,7 +1607,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1588,7 +1619,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1600,7 +1631,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1612,7 +1643,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1624,7 +1655,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1636,7 +1667,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1648,7 +1679,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1660,7 +1691,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1672,7 +1703,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1684,7 +1715,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1696,7 +1727,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1708,7 +1739,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1720,7 +1751,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1732,7 +1763,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1744,7 +1775,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1756,7 +1787,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1768,7 +1799,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1780,7 +1811,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1792,7 +1823,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1804,7 +1835,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1816,7 +1847,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1828,7 +1859,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1840,7 +1871,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1852,7 +1883,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1864,7 +1895,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1876,7 +1907,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1888,7 +1919,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1900,7 +1931,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1912,7 +1943,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1924,7 +1955,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1936,7 +1967,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's ",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1948,7 +1979,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's ",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1964,18 +1995,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-1182x1904.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1182x1904-800x1289.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551-800x220.jpg",
                 "alt": "",
@@ -1984,19 +2003,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Other",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2005,10 +2012,10 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2020,7 +2027,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2032,7 +2039,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2068,7 +2075,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2104,7 +2111,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2116,7 +2123,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2140,7 +2147,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2212,7 +2219,7 @@
                 "active": false
               },
               {
-                "tags": "Other",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2236,7 +2243,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2248,7 +2255,7 @@
                 "active": false
               },
               {
-                "tags": "Logo's",
+                "tags": "Other",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2260,7 +2267,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2272,7 +2279,7 @@
                 "active": false
               },
               {
-                "tags": "Adverts",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
