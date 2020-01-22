@@ -621,6 +621,7 @@ section.form .container {
 }
 #content1-c P {
   font-size: 16px;
+  text-align: left;
 }
 #content1-c DIV {
   color: #666666;

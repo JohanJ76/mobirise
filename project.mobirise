@@ -220,7 +220,7 @@
             "paddingBottom": "3",
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/CV Johan Jacobs.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
+          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/CV%20Johan%20Jacobs.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -253,7 +253,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-800x1289.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/aa-website2-1400x880.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -532,7 +532,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>• Designing logo’s, flyers, newsletters, newspaper adverts, motion design.</p><p>• Designing of social media ads, web banners, digital designs and &nbsp;e-mail newsletters and -campaigns.</p><p>\n</p><p>• Sublimation of coffee mugs - design and print.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print/digital product.</p>",
+          "text": "<p>• Designing logo’s, flyers, newsletters, newspaper adverts, motion design.</p><p>• Designing of social media ads, web banners, digital designs and e-mail newsletters and -campaigns.</p><p>\n</p><p>• Sublimation of coffee mugs - design and print.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print/digital product.</p>",
           "_tags": [
             "Theme"
           ],
@@ -620,7 +620,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>• Design day-to-day adverts for clients advertising within the Volksblad group. \n</p><p>• Design promotional work for Volksblad group - posters, logo's, banners, business cards, digital adverts, etc. \n</p><p>• Managing digital material received from clients. \n</p><p>• Retouching and deep etching of photos for editorial- and DTP-department. \n</p><p>• Co-ordinating workflow from ADS to desired departments in Pre-Press. \n</p><p>• Ensuring quality standards are kept in DTP department. \n</p><p>• Monitoring newspapers to ensure they meet their deadlines for print and sending final pdf pages to CTP department for printing. \n</p><p>• Troubleshooting and fault finding if a query comes through. \n</p><p>• Team leader for Pre-Press - managing all departments in DTP. \n</p><p>• Communicating and interacting with relevant production personnel and managers within the organization.</p>",
+          "text": "<p>• Make up and lay out advertisements for the respective newspapers, supplements and booklets withing the Volksblad-group<br></p><p>• Design promotional work for Volksblad group - posters, logo's, banners, business cards, digital adverts, etc. \n</p><p>• Managing complete materia received from clients. \n</p><p>• Retouching and deep etching of photos for editorial- and DTP-department. \n</p><p>• Co-ordinating workflow from ADS to desired departments in Pre-Press.</p><p> \n</p><p>• Supported the sales reps with all aspects relating to graphic design</p><p>• Ensuring quality standards are kept in DTP department. \n</p><p>• Monitoring newspapers to ensure they meet their deadlines for print, accurate placement of all adverts and sending final pdf pages to CTP department for printing. \n</p><p>• Troubleshooting and fault finding if a query comes through. \n</p><p>• Assisted when required to design print advertising and print material for all marketing communication project</p><p>• Communicating and interacting with relevant production personnel and managers within the organization.</p><p>• Team Leader to the Pre-Press department - overseaing different apartments within Pre-Press and reported to Denaral Manager.</p><p>• Weekly meetings atended where weeks workflow and probems where adressed and pointing out problems that lays ahead.</p>",
           "_tags": [
             "Theme"
           ],
@@ -628,7 +628,8 @@
           "_anchor": "content1-c",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "left"
             },
             "DIV": {
               "color": "#666666"
@@ -1351,7 +1352,7 @@
           },
           "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
           "text2": "",
-          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/CV Johan Jacobs.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
+          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/CV%20Johan%20Jacobs.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
           "_tags": [
             "Theme"
           ],
@@ -1521,6 +1522,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aa-website2-2000x1257.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aa-website2-2000x1257-800x503.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Digital Designs",
@@ -2012,7 +2025,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Digital Designs",
