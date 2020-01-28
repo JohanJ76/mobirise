@@ -1516,36 +1516,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/carousel-link-ad-2000x1124.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/carousel-link-ad-2000x1124-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Digital Designs",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/carousel-link-ad.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/carousel-link-ad.gif",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Digital Designs",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/qa.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/qa.gif",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-ad.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-ad.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Digital Designs",
@@ -1764,7 +1752,7 @@
                 "active": false
               },
               {
-                "tags": "Digital Designs",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
