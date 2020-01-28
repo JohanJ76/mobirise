@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1516,6 +1516,42 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/carousel-link-ad-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carousel-link-ad-2000x1124-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/carousel-link-ad.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/carousel-link-ad.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/qa.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/qa.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414-800x566.jpg",
                 "alt": "",
@@ -1533,7 +1569,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Digital Designs",
@@ -2068,18 +2104,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826-800x1130.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695-800x278.jpg",
                 "alt": "",
@@ -2178,30 +2202,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883-800x353.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
