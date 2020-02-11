@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -220,7 +220,7 @@
             "paddingBottom": "3",
             "bgColor": "#fcfcfc"
           },
-          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/CV%20Johan%20Jacobs.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
+          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/CV Johan Jacobs 2020.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -1352,7 +1352,7 @@
           },
           "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
           "text2": "",
-          "text3": "<b>Links</b><br><br>\nRésumé&nbsp;<a class=\"text-success\" href=\"https://mobirise.com/\">Website:</a><b>&nbsp;<a href=\"https://johanj76.github.io/mobirise/index.html\" target=\"_blank\" class=\"text-success\">https://johanj76.github.io/mobirise/index.html</a><br>\n</b><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/CV%20Johan%20Jacobs.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
+          "text3": "<b>Links</b><br><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/CV Johan Jacobs 2020.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
           "_tags": [
             "Theme"
           ],
@@ -1528,8 +1528,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/carousel-link-ad-1.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/carousel-link-ad-1.gif",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-1064x592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-1064x592-800x445.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1540,8 +1552,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1552,8 +1564,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-ad.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-ad.gif",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1576,8 +1588,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-1182x1904.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1182x1904-800x1289.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scuba-2019-1-2000x1414-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1764,7 +1776,7 @@
                 "active": false
               },
               {
-                "tags": "Print Designs",
+                "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2104,6 +2116,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ahi-voorlegging-2000x2826-800x1130.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-330ml-final-2000x695-800x278.jpg",
                 "alt": "",
@@ -2202,6 +2226,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883-800x353.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/matriekuitslae-2013-1-2000x2827-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nampo-oesdag-2000x2827-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
