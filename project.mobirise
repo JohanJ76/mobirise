@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1528,6 +1528,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
                 "alt": "",
@@ -1542,30 +1554,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-1064x592.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-1064x592-800x445.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Digital Designs",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Digital Designs",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1696,6 +1684,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371-800x148.jpg",
                 "alt": "",
@@ -1788,7 +1788,7 @@
                 "active": false
               },
               {
-                "tags": "Digital Designs",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1800,7 +1800,7 @@
                 "active": false
               },
               {
-                "tags": "Digital Designs",
+                "tags": "Print Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1809,7 +1809,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Print Designs",
