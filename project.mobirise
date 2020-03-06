@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1590,6 +1590,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newsletter-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newsletter-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
