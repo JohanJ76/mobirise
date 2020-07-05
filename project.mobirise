@@ -35,7 +35,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 57,
+    "uniqCompNum": 61,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "siteUrl": "",
@@ -228,64 +228,85 @@
           "_anchor": "content1-1i"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "49",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aa-website2-1400x880.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+            ".mbr-section-title": {
+              "color": "#666666"
             }
           },
-          "title": "Recent Project:",
-          "text": "&nbsp;Clean, modern looking website designed for Arbor Acres&nbsp;- <br><a href=\"http://www.arboracres.co.za\" target=\"_blank\">visit them here</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portfolio.html#gallery4-1c\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Portfolio</a>",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Recent Projects:",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-13",
-          "_styles": {
-            "H3": {
-              "color": "#666666"
-            },
-            "P": {
-              "color": "#666666"
-            }
-          }
+          "_name": "header3",
+          "_anchor": "header3-1m"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1n"
         },
         {
           "_styles": {
@@ -1512,6 +1533,42 @@
             "filter": true,
             "images": [
               {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1608,6 +1665,18 @@
                 "active": false
               },
               {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Digital Designs",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1666,18 +1735,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Print Designs",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Print Designs",

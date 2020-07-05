@@ -547,10 +547,11 @@ section.form .container {
 #header3-5 .mbr-section-subtitle {
   color: #666666;
 }
-#msg-box5-13 H3 {
-  color: #666666;
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-13 P {
+#header3-1m .mbr-section-title {
   color: #666666;
 }
 #header3-1k .mbr-section-title,
