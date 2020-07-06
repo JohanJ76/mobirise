@@ -1,118 +1,2334 @@
 {
   "settings": {
-    "name": "CBL Under Construcktion",
+    "name": "Johan Jacobs Résumé",
     "currentPage": "index.html",
     "theme": {
-      "name": "mobirise4",
-      "title": "Mobirise 4",
+      "name": "mobirise3",
+      "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#14cccc",
-        "secondaryColor": "#14cccc",
-        "successColor": "#232323",
-        "infoColor": "#232323",
-        "warningColor": "#232323",
-        "dangerColor": "#232323",
-        "mainFont": "Rubik",
-        "display1Font": "Open Sans",
-        "display1Size": "6",
-        "display2Font": "Open Sans",
-        "display2Size": "2.8",
-        "display5Font": "Open Sans",
-        "display5Size": 1.5,
-        "display7Font": "Open Sans",
-        "display7Size": 1,
-        "display4Font": "Open Sans",
-        "display4Size": 1,
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#f68e34",
+        "successColor": "#595a59",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
       },
       "additionalSetColors": [
-        "#14cccc",
-        "#024a4a",
-        "#d0fcfc"
+        "#fcfcfc",
+        "#666666",
+        "#232323",
+        "#2e2e2e",
+        "#f2f2f2",
+        "#f68e34",
+        "#595a59"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "versionFirst": "4.10.7",
-    "siteFonts": [
-      {
-        "css": "'Noto Sans JP', sans-serif",
-        "name": "Noto Sans JP",
-        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,500,700,900"
-      },
-      {
-        "css": "'Open Sans', sans-serif",
-        "name": "Open Sans",
-        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
-      }
-    ],
-    "uniqCompNum": 3,
-    "versionPublish": "4.10.7"
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-2018-11-20-15-49-29-utc-128x128.png",
+    "noImageResize": "",
+    "uniqCompNum": 61,
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Country Bird Logistics Website Coming Soon!",
+        "meta_descr": "Johan Jacobs Résumé and Portfolio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
         {
-          "alias": false,
           "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
             },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value",
-              "& when (@gradientBg)": {
-                "background": "linear-gradient(45deg, @bg-value, @color2)"
-              }
+            ".navbar-caption": {
+              "color": "#ffffff"
             },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
+            ".navbar-toggler": {
+              "color": "#7c706b"
             },
-            "& when (@reverseContent)": {
-              ".media-container-row": {
-                "flex-direction": "row-reverse",
-                "-webkit-flex-direction": "row-reverse"
-              }
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7c706b"
             },
-            ".mbr-figure": {
-              "@media (min-width: 992px)": {
-                "padding-right": "4rem",
-                "& when (@reverseContent)": {
-                  "padding-right": "0",
-                  "padding-left": "4rem"
-                }
-              },
-              "@media (max-width: 991px)": {
-                "padding-bottom": "3rem"
-              }
+            ".link, .dropdown-item": {
+              "color": "#7c706b",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
-            ".mbr-text": {
-              "@media (max-width: 767px)": {
-                "text-align": "center"
-              }
+            ".link": {
+              "font-size": "0.7rem"
             },
-            "H1": {
-              "text-align": "center",
-              "color": "#024a4a"
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e3e3e3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f4f4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fcfcfc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7c706b",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fcfcfc",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#7c706b",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-logo-no-background-679x128.png",
+              "height": 128,
+              "alt": "Johan Jacobs Résumé",
+              "link": "",
+              "title": "Johan Jacobs Résumé"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-2000x1648.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Hello! <br>I'm Johan",
+          "text": "Creative Graphic Designer <br>from Bloemfontein",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Let's Begin</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#595a59",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#595a59"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#fcfcfc"
+          },
+          "title": "About Me",
+          "meta": "My name is Johan Jacobs and I'm the fastest man alive from Bloemfontein.",
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"80\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/without%20text%20image-2000x1335.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg && bg.type == 'color'\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#d0fcfc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-1014x669.png\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"><b>\n                    WEBSITE<br>COMING<br>SOON!</b></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_cid": "s3Xd9gBJCi",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "header3-2"
+          "_anchor": "header3-5"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>At least 18 years experience in graphic designing and 2 years experience in newspaper print production process. I am a talented, ambitious and hardworking individual, with versatile skills and have experience working as part of a team and individually. Furthermore, I am able to handle multiple tasks on a daily basis and use a creative approach to problem solving. Other key strengths are that I am always energetic and eager to learn new skills. Strong attention to detail and ability to work effectively under pressure and meet tight deadlines.</p><p><br></p><p>\n</p><p>\n</p><p>Deliver all projects in a timely fashion. I am always on time for organised events, work-related or otherwise. Always highly enthused about my work and tasks ahead and understand the importance of being interactive and enjoy communicating with others for the benefitt of the company and clients. I work with the team to provide imaginative solutions for customers. Co-workers rely on me to be on time. Even though I take my work seriously, I do have a good sense of humor. I have confidence in others and approach new challenges with an open mind.</p><p><br></p><p><b><a href=\"assets/files/Johan%20Jacobs%20CV.pdf\" target=\"_blank\">Download my CV&nbsp;</a></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Recent Projects:",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "title": "My strengths in graphic designing are:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "chat",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "60",
+              "color": "#fac51c"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "60",
+              "color": "#fac51c"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "strategy",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "60",
+              "color": "#fac51c"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Communication \n<br>To communicate a client's story, brand and ideas, good communication skills. Maintain professional in tricky situations and to be clear with a client on the brief. \n<br>\n<br>Curiosity \n<br>Curiosity for the world around me. Love to look beyond the surface of things, to explore both the minute detail and the big picture.  \n<br>\n<br>Passion and Drive \n<br>I do what I love. But even with passion and talent, design is a labour of love. The work inevitably entails odd hours, long edits, bizarre briefs and tricky workloads. Use that passion to keep going when I'm exhausted. Balance projects and master time management, and I have the drive from the start go. <br> ",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Openness \n<br>Open-minded, willing to try new things and comfortable taking advice from unexpected sources.&nbsp;<br>\n<br>Ability to Take Criticism \n<br>As a designer, I am good at taking direction to improve my work and build on communication. It’s an evolving process and produces positives in the end. \n<br>\n<br>Problem Solving \n<br>I think logistically and critically to make things work. Creativity is needed not only to produce something brilliant, but also to work out how the pieces fit together and turn ideas into a finished product.&nbsp;<br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Patience \n<br>Design work can be slow going—answers don’t often come quickly. It takes patience to let an idea develop, work on communication and try out creative alternatives before getting to the end result. \n<br>\n<br>Reliability \n<br>Clients can count on me. It’s important to be reliable, manage client needs, develop consistency and prove trustworthiness. It’s a sure road to a long and happy working relationship. \n<br>\n<br>Evolution \n<br>I don't know it all. It’s good to keep growing and seeking new inspiration. Try new technology. Share ideas and never stop learning.<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-6",
+          "_styles": {
+            "P": {
+              "color": "#666666",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#666666",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#fcfcfc"
+          },
+          "title": "My Résumé",
+          "meta": "Employment",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Employment",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#666666"
+            }
+          },
+          "_anchor": "msg-box1-h"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<blockquote><b style=\"font-style: normal;\">Freelance Designer - Bloemfontein\n</b></blockquote><blockquote><b style=\"font-style: normal;\">1/6/2018 - Current</b></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>• Designing logo’s, banners, flyers, newsletters, newspaper adverts, motion design.</p><p>• Designing of social media ads, web banners, digital designs for e-mail newsletters and -campaigns.</p><p>\n</p><p>• Sublimation of coffee mugs - design and print.\n</p><p>• Communicating and interacting with clients.\n</p><p>• Understand the briefs clients give and to take written info to final print/digital product.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content1-15"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<blockquote><b style=\"font-style: normal;\">Paarlcoldset / Novus Holdings - Bloemfontein\n</b></blockquote><blockquote><b style=\"font-style: normal;\">CTP Operator &nbsp; &nbsp;• &nbsp; &nbsp;1/4/2016 - 31/4/2018</b></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-9",
+          "_styles": {
+            "B": {
+              "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>• Managing complete material received from clients - ensure pdf's are to standards (print size, CMYK, correct date lines, page numbers, white spaces).\n</p><p>• Managing the digital workflow processes of material received from clients.\n</p><p>• Ensure that quality plates are produced on time in full to the Press Department.\n</p><p>• Communicating and interacting with clients and other relevant production personnel in the organization.\n</p><p>• Ensuring quality standards are adhered to. Troubleshooting and fault finding.\n</p><p>• Ensure record keeping and weekly stock taking is done according to expected standards.\n</p><p>• Keeping abreast of new innovations and technological developments and improvements in the pre-press domain.\n</p><p>• Carrying out routine maintenance procedures on all CTP equipment.\n</p><p>• Quality Control Champion - going through newspapers the press printed on quality, defects and record info in MIS. Complete day-2-day record on quality are kept and send to managers.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<blockquote><font color=\"#666666\"><b style=\"font-style: normal;\">Volksblad / Media24 - Bloemfontein \n</b></font></blockquote><blockquote><font color=\"#666666\"><b style=\"font-style: normal;\">Graphic Designer (DTP) / Team Leader &nbsp; &nbsp;• &nbsp; &nbsp;1/2/2000 - 31/3/2016</b></font></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "color": "#666666"
+            },
+            "SPAN": {
+              "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content2-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>• Make up and lay out advertisements for the respective newspapers, supplements and booklets within the Volksblad-group\n</p><p>• Design promotional work for Volksblad group - posters, logo's, banners, business cards, digital adverts, etc.\n</p><p>• Managing complete material received from clients.\n</p><p>• Retouching and deep etching of photos for editorial- and DTP-department.\n</p><p>• Co-ordinating workflow from ADS to desired departments in Pre-Press.\n</p><p>• Supported the sales reps with all aspects relating to graphic design\n</p><p>• Ensuring quality standards are kept in DTP department.\n</p><p>• Monitoring newspapers to ensure they meet their deadlines for print, accurate placement of all adverts and sending final pdf pages to CTP department for printing.\n</p><p>• Troubleshooting and fault finding if a query comes through.\n</p><p>• Assisted when required to design print advertising and print material for all marketing communication project\n</p><p>• Communicating and interacting with relevant production personnel and managers within the organization.\n</p><p>• Team Leader to the Pre-Press department - overseeing different departments within Pre-Press and reported to General Manager.\n</p><p>• Weekly meetings attended where weeks workflow and problems where addressed and pointing out problems that lays ahead.</p><p><br></p><p>\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Foto &amp; Video House - Bloemfontein \n</b></span></font></blockquote><blockquote><font color=\"#666666\"><span style=\"font-style: normal;\"><b>Part Time Graphic Designer &nbsp; &nbsp;• &nbsp; &nbsp;31/1/1999 - 1/12/1999</b></span></font></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "color": "#666666"
+            },
+            "SPAN": {
+              "color": "#666666"
+            },
+            "DIV": {
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content2-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgColor": "#fcfcfc"
+          },
+          "text": "<p>• Designed logo's, DVD covers and promotional work.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_styles": {
+            "DIV": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Software Skills",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-g",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#f68e34",
+              "font-size": "20px"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "print",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "title1": "Photoshop",
+          "subtitle1": "80%",
+          "caption1": "Provitioned with Adobe Photoshop as it is used daily to edit &amp; retouch photos to spesification to press standerds. Deep-etching photos for editorial- &amp; DTP-department. Web ads and banners designed.&nbsp;",
+          "title2": "Corel Draw",
+          "subtitle2": "80%",
+          "caption2": "Very provitioned with Corel Draw as it is daily used to design adverts for clients, layout designs for dummy pages, logo designs, e-mail ads, and many more. Print ready pdf's are send to external printers.&nbsp;",
+          "title3": "Indesign",
+          "subtitle3": "50%",
+          "caption3": "Basic knolage of Adobe Indesign how it works. Done some layouts for dummy pages. Not used daily.&nbsp;",
+          "title4": "Illustrator",
+          "subtitle4": "50%",
+          "caption4": "Basic knolage of Adobe Illustrator how it works. Done some logo's and other vector files -exported to be used in other design programs. Not used daily.&nbsp;",
+          "title5": "Microsoft Office",
+          "subtitle5": "70%",
+          "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;",
+          "title6": "After Effects",
+          "subtitle6": "60%",
+          "caption6": "Basic knolage of Adobe After Effects how it works. Done some motion graphic and animation designs. Export project to Adobe Photoshop to make GIF files for web.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-l"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#f68e34",
+              "font-size": "20px"
+            },
+            ".iconbox": {
+              "background-color": "#efefef",
+              "border-color": "#efefef"
+            },
+            "H4": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#f68e34"
+            }
+          },
+          "title1": "Adobe Dreamweaver",
+          "subtitle1": "50%",
+          "caption1": "Basic knolage of Adobe Dreamweaver how it works. Designed a few websites for clients.&nbsp;",
+          "title2": "Adobe Muse",
+          "subtitle2": "50%",
+          "caption2": "Basic knolage of Adobe Muse how it works. Mostly experimented with program.",
+          "title3": "MailChimp",
+          "subtitle3": "50%",
+          "caption3": "Basic knolage of HTML and the use of it to design layout of websites.&nbsp;",
+          "title4": "Mobirise",
+          "subtitle4": "80%",
+          "caption4": "Basic knolage of CSS and the use of it to struckture the HTML and the look-and-feel  of a website .  ",
+          "title5": "CSS &amp; HTML",
+          "subtitle5": "50%",
+          "caption5": "Provitioned with Word, Excell and Powerpoint. Designed letter heads, infographic excell sheets, slide shows with animated infographics.&nbsp;Self tought to use via tutorials.",
+          "title6": "After Effects",
+          "subtitle6": "50%",
+          "caption6": "Basic knolage of Adobe After Effects how it works. Done some motion graphic and animation designs. Export project to Adobe Photoshop to make GIF files for web.&nbsp;Self tought to use via tutorials.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Education&nbsp;",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#666666"
+            }
+          },
+          "_anchor": "msg-box1-n"
+        },
+        {
+          "_inherit": "features1",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "apple",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfcfc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Central University of Technology - FS",
+          "subtitle1": "1995 - 1998&nbsp;",
+          "caption1": "<br>National Diploma in Graphic Design&nbsp;<br>",
+          "title2": "Louis Botha Technical High School - FS",
+          "subtitle2": "1990 - 1994",
+          "caption2": "<br>Metric / Senior Certificate &nbsp;<br>",
+          "title3": "Achievements",
+          "subtitle3": "Volksblad /Media24 Bloemfontein",
+          "caption3": "• 2015 - 15 Years Service Certicate - Volksblad\n<br>• 2015 - Promoted to Team Leader for Pre-Press Department - Volksblad\n<br>• 2015 - Graphic Designer of the Year Award - Volksblad\n<br>• 2010 - 10 Years Service Certicate - Volksblad\n<br>• 2010 - Graphic Designer of the Year Award - Volksblad\n<br>• 2004 - Promoted to Head Designer",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features2",
+          "_anchor": "features2-r",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "15px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "15px",
+              "color": "#666666"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#666666"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": "4",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Reverences",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><span style=\"font-size: 1.125rem;\">Jeannine van Zyl - Bloemfontein Manager - Volksblad</span><br></p><p>051 404 7855\n</p><p><a href=\"mailto:jvanzyl2@Volksblad.com\" class=\"text-warning\">jvanzyl2@Volksblad.com</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p>Coleen Cilliers - Bethlehem Manager - Volksblad Group&nbsp;</p><p>058 303 5411 \n</p><p><a href=\"mailto:coleen@volksblad.com\">coleen@volksblad.com</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Jhollman C.",
+              "authorBio": "User",
+              "text": "<p>Mossie Mostert - General Manager Paarlcoldset\n</p><p><span style=\"font-size: 1.125rem;\">051 411 6861&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.125rem;\"><a href=\"mailto:Mossie.Mostert@paarlcoldset.co.za\">Mossie.Mostert@paarlcoldset.co.za</a></span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p>Frikkie van der Walt - CTP Foreman Paarlcoldset</p><p>\n<span style=\"font-size: 1.125rem;\">051 411 6865 &nbsp;</span></p><p>\n<span style=\"font-size: 1.125rem;\"><a href=\"mailto:frikkie.vanderwalt@paarlcoldset.co.za\">frikkie.vanderwalt@paarlcoldset.co.za</a></span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-t",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#666666",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "form": {
+            "action": "jjacobs064@gmail.com",
+            "alerts": {
+              "success": "Thank you, massage has been send!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-10",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#666666"
+            },
+            "SMALL": {
+              "color": "#666666"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/my-logo-small-no-background-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>Contact Details&nbsp;</b><br><br>E-mail:<b>&nbsp;</b><b><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\">jjacobs064@gmail.com&nbsp;</a></b><br><a href=\"mailto:jjacobs064@gmail.com\" class=\"text-success\" style=\"font-weight: bold;\"><br></a><br>Phone: <b>+27 71 675 5341&nbsp;<br></b><br>",
+          "text2": "",
+          "text3": "<b>Links</b><br><br>Résumé PDF for&nbsp;Download: <b>&gt;&nbsp;<a href=\"assets/files/Johan%20Jacobs%20CV.pdf\" target=\"_blank\">Please click here</a> &lt;</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-v",
+          "_styles": {
+            "STRONG": {
+              "color": "#666666"
+            },
+            "P": {
+              "color": "#666666",
+              "font-size": "15px"
+            },
+            "B": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) Johan Jacobs - All Rights Reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-s"
+        }
+      ]
+    },
+    "portfolio.html": {
+      "settings": {
+        "title": "portfolio",
+        "meta_descr": "Johan Jacobs Résumé and Portfolio",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#7c706b"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7c706b"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7c706b",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e3e3e3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f4f4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fcfcfc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7c706b",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fcfcfc",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#7c706b",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Résumé</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-g\">Skills</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-n\">Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-t\">Reverences</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/my-logo-no-background-679x128.png",
+              "height": 128,
+              "alt": "Johan Jacobs Résumé",
+              "link": "",
+              "title": "Johan Jacobs Résumé"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/qa.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/qa.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-1.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newspaper-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newspaper-3-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-carousel-link-2.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aa-website2-2000x1257.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aa-website2-2000x1257-800x503.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/save-the-rhino-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julea-private-guest-cottages-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vb-digitaal-10x7-huisad-2000x761-800x304.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newsletter-2-2000x1334-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-2000x838.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-2000x838-800x335.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-cover-2000x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/funky-village-fb-pic-658x658-658x658.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arbor-acres-tanker-2000x551-800x220.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/aa-waterbottel-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aa-waterbottel-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/report-1644x925.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/report-1644x925-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/volksblad-kalender-2016-voor-2000x2828-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/voucher-volksblad-1749x774-800x354.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-2000x371-800x148.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-timeline-2000x641.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vrystaat-rugby-vier-120-jaar-timeline-2000x641-800x256.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a-nite-at-the-races-a6-620x874-620x874.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adventure-accommodation-2000x405-800x162.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/a4-paper-mockup-free-psd-template-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a4-paper-mockup-free-psd-template-1800x1200-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-shirt-1436x3335-800x1858.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cycling-gear-budget-pants-2000x3233-800x1293.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gabriella-gabby-b-card-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gabriella-gabby-b-card-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karaoke-uitnodiging-2000x952-800x381.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lable-design-kalahari-2000x883-800x353.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redene-broer-2000x1445-800x578.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rudman-5-2000x2003-800x801.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2019-ocean-2000x1438.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-ocean-2000x1438-800x575.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/project-runway2-1-2000x1467.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/project-runway2-1-2000x1467-800x587.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bday-poster-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bday-poster-1600x1200-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/budget-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/budget-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/burger-day-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/burger-day-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/national-hamburger-day-final-layout-2000x1444.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/national-hamburger-day-final-layout-2000x1444-800x578.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug1a-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug1a-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug2a-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug2a-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug2b-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug2b-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug3-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug4a-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug4a-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug4b-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug4b-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coffee-mug5a-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coffee-mug5a-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fifa-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fifa-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2014-fifa-world-cup-final-qwaqwa-2000x1445.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2014-fifa-world-cup-final-qwaqwa-2000x1445-800x578.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/invite-1-2000x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/invite-1-2000x1440-800x576.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/invite-2-2000x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/invite-2-2000x1440-800x576.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mcarthy-suzuki-2000x1167.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mcarthy-suzuki-2000x1167-800x467.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/motors-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/motors-1800x1200-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photo-albem-2000x1438.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-albem-2000x1438-800x575.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/my-bcard3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/my-bcard3-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vinilla5-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vinilla5-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vinilla6-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vinilla6-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vinilla7-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vinilla7-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vodacom1-1920x1272.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vodacom1-1920x1272-800x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vodacom2-1920x1272.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vodacom2-1920x1272-800x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boeta-bday-kaart-1749x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mainstay-presentation-1128x1772.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mainstay-presentation-1128x1772-800x1257.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/quicksignal-1-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/quicksignal-1-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/my-logo-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/my-logo-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bhm-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bhm-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/badcat-logo-1750x2482.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/badcat-logo-1750x2482-800x1135.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) Johan Jacobs - All Rights Reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19"
         }
       ]
     }
