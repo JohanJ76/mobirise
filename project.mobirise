@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Johan Jacobs Résumé",
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -267,8 +267,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/house-malva-web-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/house-malva-web-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -279,12 +279,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shaun-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shaun-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karate-a5-flyer-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karate-a5-flyer-1800x1200-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-bcard-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-bcard-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -296,19 +320,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maluti-bonsmara-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -1549,20 +1561,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Other",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/house-malva-web-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/house-malva-web-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1573,8 +1573,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/business-card-4-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shaun-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shaun-1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/karate-a5-flyer-1-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/karate-a5-flyer-1-1800x1200-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Print Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-bcard-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-bcard-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital Designs",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-event-image-size-100-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/louise-unique-munshies-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
