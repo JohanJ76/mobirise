@@ -554,22 +554,6 @@ section.form .container {
 #header3-1m .mbr-section-title {
   color: #666666;
 }
-#header3-1k .mbr-section-title,
-#header3-1k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1k .mbr-section-title {
-  color: #666666;
-  font-size: 32px;
-}
-#header3-1k .mbr-section-subtitle {
-  color: #666666;
-}
-#features6-6 P {
-  color: #666666;
-  font-size: 16px;
-  text-align: center;
-}
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
@@ -637,32 +621,6 @@ section.form .container {
   color: #666666;
 }
 #content1-e DIV {
-  color: #666666;
-}
-#msg-box1-g H3 {
-  text-align: left;
-  color: #666666;
-}
-#features4-l .card-subtitle {
-  color: #f68e34;
-  font-size: 20px;
-}
-#features4-l .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-l H4 {
-  color: #666666;
-}
-#features4-m .card-subtitle {
-  color: #f68e34;
-  font-size: 20px;
-}
-#features4-m .iconbox {
-  background-color: #efefef;
-  border-color: #efefef;
-}
-#features4-m H4 {
   color: #666666;
 }
 #msg-box1-n H3 {
